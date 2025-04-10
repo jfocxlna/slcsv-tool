@@ -1,0 +1,8 @@
+[package]
+name = "slcsv-tool"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+inquire = "0.7.5"
+regex = "1.11.1"
